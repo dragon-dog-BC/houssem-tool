@@ -1,4 +1,0 @@
-streamlit
-openpyxl
-google-genai
-requests
